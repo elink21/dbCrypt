@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAA;EACT,OAAO,EAAC,IAAI;EACZ,qBAAqB,EAAE,WAAW;CACrC",
+    "sources": [
+        "grid.scss"
+    ],
+    "names": [],
+    "file": "grid.css"
+}
